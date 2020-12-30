@@ -1,0 +1,8 @@
+package linear
+
+modules = Linear.Epsilon
+        , Linear.Metric
+        , Linear.Vect
+        , Linear
+
+sourcedir = "src"
